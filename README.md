@@ -1,0 +1,1 @@
+establezo un repositorio en la nube pero lo modifico desde mi archvio local para tener la secuencia
